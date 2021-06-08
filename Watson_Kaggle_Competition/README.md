@@ -1,4 +1,4 @@
-# Contradictory, My Dear Watson Kaggle Competition
+# 'Contradictory, My Dear Watson' Kaggle Competition
 This notebook train a model for the submission in Kaggle Competition referenced below.
 
 ## Main Technologies
